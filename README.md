@@ -1,11 +1,11 @@
-# TypeScript Pro 🛠️  
+# TypeScript Pro  
 **A 4‑Hour Deep Dive from Basics to Expert Level**  
 by **HuXn WebDev** – *uploaded 22 Nov 2023*  
 <https://www.youtube.com/watch?v=zeCDuo74uzA&ab_channel=HuXnWebDev>
 
 ---
 
-📄 **Description**  
+**Description**  
 This repository contains beginner to expert-level TypeScript concepts.  
 Each concept is placed in its own folder and includes:
 
@@ -17,7 +17,7 @@ Simply open any folder in your code editor and run the `.ts` file with `ts-node`
 ---
 
 <details>
-<summary><strong>📚 Concepts Covered</strong></summary>
+<summary><strong>Concepts Covered</strong></summary>
 
 - Annotations  
 - The **`any`** type  
@@ -47,7 +47,7 @@ Simply open any folder in your code editor and run the `.ts` file with `ts-node`
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # 1 – Clone the repo
